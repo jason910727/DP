@@ -14,7 +14,7 @@ Additional borads managers URLs(File -> Preferences 複製即可)
 - https://dl.espressif.com/dl/package_esp32_index.json
 <br>
 <br>
-Driver (Ch340 or Ch341\
+Driver Ch340 or Ch341
 <br>
 - [網站](https://reurl.cc/mk1XlG)
 - [執行檔](https://cdn.sparkfun.com/assets/learn_tutorials/8/4/4/CH341SER.EXE)
