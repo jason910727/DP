@@ -1,10 +1,9 @@
 # DP
 教師研習用
 
-===
+---
 ## 所需素材
 
----
 ##### Arduino IDE 2.3.7 Link
 - [網站](https://www.arduino.cc/en/software/)  
 - [執行檔](https://downloads.arduino.cc/arduino-ide/arduino-ide_2.3.7_Windows_64bit.exe)  
@@ -18,7 +17,6 @@
 
 ## 步驟
 
----
 Step1. 下載上述所有檔案  
 Step2. 執行**CH341SER.EXE**按照預設步驟安裝後開啟**CH341SER**(直接按INSTALL就好)  
 <img width="416" height="271" alt="image" src="https://github.com/user-attachments/assets/486881bd-16bb-44e7-9442-984bb105c373" />  
