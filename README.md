@@ -11,3 +11,5 @@
 ##### Driver (Ch340 or Ch341)  
 - [網站](https://reurl.cc/mk1XlG/)  
 - [執行檔](https://cdn.sparkfun.com/assets/learn_tutorials/8/4/4/CH341SER.EXE)  
+##### Arduino main code  
+- [程式碼](https://raw.githubusercontent.com/jason910727/DP/main/sketch_jan30a.ino) 
