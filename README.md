@@ -4,14 +4,14 @@
 ---
 ## 所需素材
 
+##### Driver (Ch340 or Ch341)  
+- [網站](https://reurl.cc/mk1XlG/)  
+- [執行檔](https://cdn.sparkfun.com/assets/learn_tutorials/8/4/4/CH341SER.EXE)  
 ##### Arduino IDE 2.3.7 Link
 - [網站](https://www.arduino.cc/en/software/)  
 - [執行檔](https://downloads.arduino.cc/arduino-ide/arduino-ide_2.3.7_Windows_64bit.exe)  
 ##### Additional borads managers URLs(File -> Preferences 複製即可)  
 - `https://dl.espressif.com/dl/package_esp32_index.json`  
-##### Driver (Ch340 or Ch341)  
-- [網站](https://reurl.cc/mk1XlG/)  
-- [執行檔](https://cdn.sparkfun.com/assets/learn_tutorials/8/4/4/CH341SER.EXE)  
 ##### Arduino main code  
 - [程式碼](https://raw.githubusercontent.com/jason910727/DP/main/sketch_jan30a.ino) 
 
@@ -30,7 +30,7 @@ Step4. 增加Arduino IDE非常規支援板子
 <img width="633" height="356" alt="image" src="https://github.com/user-attachments/assets/521e5319-89b4-434f-ab2a-1337025f211c" />  
 
 Step5. 新增ESP32-S板
-點擊 **左欄第二個**(或Tools -> Board -> Boards Manager) 打開**開發版管理** 查詢ESP32 **INSTALL**
+點擊 **左欄第二個**(或Tools -> Board -> Boards Manager) 打開**開發版管理** 查詢`ESP32` **INSTALL**
 <img width="633" height="356" alt="image" src="https://github.com/user-attachments/assets/609c4a09-5605-470b-966a-706676f531ab" />  
 
 Step6. 把附上的主程式貼上去  
