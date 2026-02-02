@@ -50,9 +50,9 @@ Step9. 點擊**✔(Verify)**沒有報錯後即可把程式燒錄到板子**點�
 
 
 
-#### 例外狀況
-<font color=#FF0000>Error: 4 DEADLINE_EXCEEDED: net/http: request canceled (Client.Timeout or context cancellation while reading body)</font>
-到 ** "C:\Users\user\.arduinoIDE\arduino-cli.yaml" **  
+## 例外狀況
+<font color=#FF0000>Error: 4 DEADLINE_EXCEEDED: net/http: request canceled (Client.Timeout or context cancellation while reading body)</font>  
+到 **"C:\Users\\<使用者名稱>\\.arduinoIDE\arduino-cli.yaml"**  
 新增以下字串  
 `network:`  
 `    connection_timeout: "0"`
