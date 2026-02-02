@@ -45,4 +45,14 @@ Step8. 選擇序列埠 **Tools -> Port -> 你的序列埠**
 <img width="633" height="356" alt="image" src="https://github.com/user-attachments/assets/86804bb9-6048-48da-95a3-54ef9a8808f1" />  
 
 Step9. 點擊**✔(Verify)**沒有報錯後即可把程式燒錄到板子**點擊→(Upload)**
-<img width="633" height="356" alt="image" src="https://github.com/user-attachments/assets/74eb97dc-d9a6-439f-a213-5b79c0f7e6ad" />
+<img width="633" height="356" alt="image" src="https://github.com/user-attachments/assets/74eb97dc-d9a6-439f-a213-5b79c0f7e6ad" />  
+
+
+
+
+#### 例外狀況
+<font color=#FF0000>Error: 4 DEADLINE_EXCEEDED: net/http: request canceled (Client.Timeout or context cancellation while reading body)</font>
+到 ** "C:\Users\user\.arduinoIDE\arduino-cli.yaml" **  
+新增以下字串  
+`network:`  
+`    connection_timeout: "0"`
