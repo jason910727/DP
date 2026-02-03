@@ -9,7 +9,9 @@
 - [執行檔](https://cdn.sparkfun.com/assets/learn_tutorials/8/4/4/CH341SER.EXE)  
 ##### Arduino IDE 2.3.7 Link
 - [網站](https://www.arduino.cc/en/software/)  
-- [執行檔](https://downloads.arduino.cc/arduino-ide/arduino-ide_2.3.7_Windows_64bit.exe)  
+- [執行檔](https://downloads.arduino.cc/arduino-ide/arduino-ide_2.3.7_Windows_64bit.exe)
+##### Arduino IDE 1.8.19 zip
+- [壓縮檔](https://downloads.arduino.cc/arduino-1.8.19-windows.zip)  
 ##### Additional borads managers URLs(File -> Preferences 複製即可)  
 - `https://dl.espressif.com/dl/package_esp32_index.json`  
 ##### Arduino main code  
