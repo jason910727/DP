@@ -15,7 +15,9 @@
 ##### Additional borads managers URLs(File -> Preferences 複製即可)  
 - `https://dl.espressif.com/dl/package_esp32_index.json`  
 ##### Arduino main code  
-- [程式碼](https://raw.githubusercontent.com/jason910727/DP/main/sketch_jan30a.ino) 
+- [程式碼](https://raw.githubusercontent.com/jason910727/DP/main/sketch_jan30a.ino)
+##### 接線範例  
+- [接線圖](https://wokwi.com/projects/455042136815107073)
 
 ## 步驟
 
